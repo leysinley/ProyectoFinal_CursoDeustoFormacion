@@ -1,3 +1,3 @@
 [submodule "providers-app"]
     path = providers-app
-    url = <https://github.com/leysinley/ProyectoFinal_CursoDeustoFormacion/providers-app>
+    url = https://github.com/leysinley/ProyectoFinal_CursoDeustoFormacion/providers-app
